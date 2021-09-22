@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128.37802mm"
+   height="100.6157mm"
+   viewBox="0 0 128.37802 100.6157"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (1:1.1+202105261518+ce6663b3b7)"
+   sodipodi:docname="taspg-logo.svg"
+   inkscape:export-filename="/var/www/html/healthscience/graphics/logo/coop/lifestream-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8232-3">
+      <stop
+         style="stop-color:#e9a720;stop-opacity:1;"
+         offset="0"
+         id="stop8228" />
+      <stop
+         style="stop-color:#e9a720;stop-opacity:0;"
+         offset="1"
+         id="stop8230" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="14.385184 : -43.141817 : 1"
+       inkscape:vp_y="0 : 999.99994 : 0"
+       inkscape:vp_z="224.38519 : -43.141817 : 1"
+       inkscape:persp3d-origin="119.38521 : -92.641796 : 1"
+       id="perspective864" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8232-3"
+       id="linearGradient8236"
+       x1="96.721954"
+       y1="223.35027"
+       x2="128.75156"
+       y2="223.35027"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0541175,-0.33885805,0.41991315,1.3062631,-94.677245,-34.937162)" />
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.3460945"
+       width="1.327391"
+       y="-0.17304727"
+       x="-0.16369548"
+       style="color-interpolation-filters:sRGB"
+       id="filter3643">
+      <feGaussianBlur
+         stdDeviation="2.5"
+         result="result1"
+         id="feGaussianBlur3621" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite3623" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur3625" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite3627" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite3629" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.29999995"
+         surfaceScale="3"
+         lighting-color="#ffffff"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting3633">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight3631" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite3635" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite3637"
+         k1="0"
+         k4="0" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite3639" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend3641" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.32"
+     inkscape:cx="172.72727"
+     inkscape:cy="307.95455"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.982989,-169.67242)">
+    <g
+       id="g3447"
+       style="opacity:1;mix-blend-mode:normal;filter:url(#filter3643)"
+       transform="matrix(0.97705688,0,0,1.12235,0.51043001,-27.774688)"
+       inkscape:export-filename="/var/www/html/healthscience/graphics/truthasaPG/logo/png/truthasPG-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#11186a;fill-opacity:0.91;stroke-width:0.0762174;stroke-dasharray:0.0762174, 0.0762174"
+         id="path880-7"
+         sodipodi:type="arc"
+         sodipodi:cx="90.273315"
+         sodipodi:cy="229.62668"
+         sodipodi:rx="24.745121"
+         sodipodi:ry="25.143616"
+         sodipodi:start="0"
+         sodipodi:end="6.2785951"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="M 115.01844,229.62668 A 24.745121,25.143616 0 0 1 90.301712,254.77028 24.745121,25.143616 0 0 1 65.52826,229.68439 24.745121,25.143616 0 0 1 90.188127,204.48321 24.745121,25.143616 0 0 1 115.01818,229.51126" />
+      <path
+         style="color:#000000;fill:#10176a;fill-opacity:0.909804;stroke-width:0.0952583;stroke-dasharray:0.0952583, 0.0952583;-inkscape-stroke:none"
+         d="m 151.53629,188.05933 c 16.55863,5.32051 26.83829,22.94384 22.96984,39.3791 -3.86849,16.4353 -20.42271,25.4694 -36.99022,20.18661 -16.56759,-5.28246 -38.172173,-14.36251 -23.05472,-39.33277 8.48335,-14.01242 20.36098,-25.52191 36.9373,-20.27688"
+         id="path880-6-7-5"
+         sodipodi:nodetypes="csssc" />
+    </g>
+    <path
+       style="fill:#0c6da5;fill-opacity:0.91;stroke-width:0.0722675;stroke-dasharray:0.0722675, 0.0722675"
+       id="path880"
+       sodipodi:type="arc"
+       sodipodi:cx="-6.7254586"
+       sodipodi:cy="225.16035"
+       sodipodi:rx="20.750177"
+       sodipodi:ry="19.09844"
+       sodipodi:start="0"
+       sodipodi:end="6.2785951"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 14.024719,225.16035 A 20.750177,19.09844 0 0 1 -6.7016467,244.25878 20.750177,19.09844 0 0 1 -27.475581,225.20419 20.750177,19.09844 0 0 1 -6.7968942,206.06203 20.750177,19.09844 0 0 1 14.0245,225.07269" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#23f607;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833"
+       sodipodi:cx="73.330902"
+       sodipodi:cy="218.90344"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="13.389613"
+       sodipodi:argument="-18.22061"
+       sodipodi:t0="0"
+       d="m 73.330902,218.90344 c 0.542873,0.39494 -0.264538,0.92663 -0.656418,0.90229 -1.061969,-0.066 -1.434218,-1.35417 -1.148162,-2.21512 0.511686,-1.54006 2.397371,-2.00847 3.773834,-1.39404 2.020015,0.9017 2.596925,3.45371 1.639907,5.33254 -1.275555,2.50419 -4.514586,3.19128 -6.891251,1.88578 -2.99079,-1.64283 -3.788637,-5.57758 -2.131651,-8.44996 2.006832,-3.47882 6.641777,-4.38773 10.008667,-2.37752 3.967763,2.36897 4.987926,7.70671 2.623396,11.56738 -2.729944,4.45729 -8.77214,5.58884 -13.126083,2.86926 -4.947228,-3.09015 -6.190269,-9.83791 -3.115141,-14.68479 3.449829,-5.43746 10.903947,-6.79206 16.2435,-3.36101 5.927915,3.80912 7.394135,11.97017 3.606884,17.80221"
+       transform="matrix(0.11753954,0.79808389,-0.80884803,0.12581611,311.41975,132.47752)"
+       inkscape:export-filename="/var/www/html/healthscience/graphics/truthasaPG/logo/png/truthasPG-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#e9a720;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833-3"
+       sodipodi:cx="98.180786"
+       sodipodi:cy="220.00316"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="13.389613"
+       sodipodi:argument="-18.22061"
+       sodipodi:t0="0"
+       transform="rotate(27.04828,-99.23687,143.99613)"
+       d="m 98.180786,220.00316 c 0.542873,0.39494 -0.264538,0.92663 -0.656418,0.90229 -1.061969,-0.066 -1.434218,-1.35417 -1.148162,-2.21513 0.511686,-1.54005 2.397371,-2.00846 3.773834,-1.39403 2.02002,0.9017 2.59693,3.45371 1.63991,5.33254 -1.27556,2.50418 -4.514589,3.19128 -6.891254,1.88578 -2.99079,-1.64283 -3.788637,-5.57759 -2.131651,-8.44996 2.006832,-3.47883 6.641777,-4.38774 10.008665,-2.37752 3.96776,2.36896 4.98793,7.70671 2.6234,11.56737 -2.72995,4.45729 -8.772142,5.58884 -13.126085,2.86927 -4.947228,-3.09015 -6.190268,-9.83792 -3.115141,-14.68479 3.449829,-5.43746 10.903946,-6.79206 16.243496,-3.36101 5.92792,3.80911 7.39414,11.97017 3.60689,17.8022" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#e9a720;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833-6"
+       sodipodi:cx="97.274895"
+       sodipodi:cy="204.99615"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="13.389613"
+       sodipodi:argument="-18.22061"
+       sodipodi:t0="0"
+       transform="matrix(-0.54089423,-1.7230189,1.5425407,-0.61735395,-172.57781,526.2093)"
+       d="m 97.274895,204.99615 c 0.542872,0.39495 -0.264539,0.92664 -0.656418,0.90229 -1.06197,-0.066 -1.434218,-1.35416 -1.148163,-2.21512 0.511686,-1.54005 2.397371,-2.00846 3.773835,-1.39404 2.020011,0.9017 2.596921,3.45372 1.639911,5.33255 -1.27556,2.50418 -4.51459,3.19127 -6.891255,1.88578 -2.99079,-1.64284 -3.788637,-5.57759 -2.131651,-8.44996 2.006831,-3.47883 6.641777,-4.38774 10.008666,-2.37753 3.96776,2.36897 4.98793,7.70671 2.6234,11.56738 -2.72995,4.45729 -8.772143,5.58884 -13.126087,2.86927 -4.947228,-3.09016 -6.190268,-9.83792 -3.11514,-14.68479 3.449829,-5.43747 10.903947,-6.79207 16.243497,-3.36102 5.92792,3.80912 7.39414,11.97017 3.60689,17.80221"
+       inkscape:export-filename="/var/www/html/healthscience/graphics/truthasaPG/logo/png/truthasPG-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;stroke:url(#linearGradient8236);stroke-width:1.83038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 139.46827,228.70477 c -1.94058,2.04866 -38.58562,-18.7705 -41.987507,-20.04801 l -1.015567,-0.38694"
+       id="path856"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/var/www/html/healthscience/graphics/truthasaPG/logo/png/truthasPG-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#0c6da5;fill-opacity:0.91;stroke-width:0.0559069;stroke-dasharray:0.0559069, 0.0559069;-inkscape-stroke:none"
+       d="m 36.425745,318.79475 c -10.315719,-3.70166 -15.709999,-13.55512 -12.053466,-22.01742 3.656528,-8.4623 14.981581,-12.33438 25.305691,-8.65212 10.324182,3.68209 23.632646,9.63991 12.111544,21.99755 -6.465222,6.93467 -14.945446,12.36543 -25.277891,8.70262"
+       id="path880-6"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;fill:#0c6da5;fill-opacity:0.91;stroke-width:0.0722675;stroke-dasharray:0.0722675, 0.0722675;-inkscape-stroke:none"
+       d="m 99.389937,276.44728 c 13.018813,4.17321 20.529593,17.06383 16.782773,28.80392 -3.74685,11.7401 -17.334863,17.89149 -30.362288,13.74522 -13.027492,-4.14605 -29.928238,-11.12887 -16.852444,-28.77237 7.337657,-9.9009 17.287649,-17.93057 30.323599,-13.81126"
+       id="path880-6-7"
+       sodipodi:nodetypes="csssc" />
+  </g>
+</svg>
